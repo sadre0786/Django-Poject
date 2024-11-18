@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sadre0786/Django-Poject.git
 cd project
 
 3️⃣ Install Dependencies
